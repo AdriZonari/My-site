@@ -3,6 +3,11 @@ body{
     margin: 0px;
 }
 
+h1{
+    color: #7f7f7f;
+    font-family: 'Aleo', serif;
+}
+
 h2{
     color: #ffffff;
     font-family: 'Aleo', serif;
