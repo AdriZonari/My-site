@@ -3,10 +3,6 @@ body{
     margin: 0px;
 }
 
-h1{
-    color: #949494;
-    font-family: 'Aleo', serif;
-}
 
 h2{
     color: #ffffff;
@@ -37,9 +33,14 @@ p {
 }
 
 .top-container h1{
-    
+    color: #ffffff;
     margin-top: 4.76rem;
     margin-left: 1.5rem;
+}
+
+h1{
+    color: #949494;
+    font-family: 'Aleo', serif;
 }
 
 
